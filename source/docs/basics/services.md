@@ -1,8 +1,20 @@
-# Turn it off
+# Services audit
 
-Consider disabling it during travel or extended periods when you will not need to be online. Depending on manufacturer of the WLAN router, it may be impractical to turn the Wi-Fi signal off and on frequently. Some routers have a button for quickly turning off Wi-Fi and some even offer the option to configure a wireless schedule that will automatically disable the Wi-Fi at specified times.
-    
-# Disable services when not needed
+## Questions
+
+  * Is this service really necessary?
+  * Is the service running on interfaces that it doesn't need to? Is it better to bound it to a single IP?
+  * Do the firewall rules allow legitimate traffic to pass through to this service?
+  * Do the firewall rules block traffic that is not legitimate?
+  * Is there some way security alerts about vulnerabilities for each of these services can be received?
+
+Use `netstat` (if not available install net-tools):
+
+    $ sudo netstat -plunt
+
+Pay attention to `Proto`, `Local Address`, and `PID/Program` name. If the address is `0.0.0.0`, then the service is accepting connections on all interfaces. 
+
+## Disable services when not needed
 
 Make services like Telnet, Universal Plug and Play (UPnP), Secure Shell (SSH), and Home Network Administration Protocol (HNAP) unreachable from the internet. Turn them off on the local network if they're not needed. 
 
@@ -13,5 +25,3 @@ Get your router's IP address
     $ host myip.opendns.com resolver1.opendns.com
 
 [Scan your router's public IP address](cheatsheets:docs/scanning/Nmap-cheatsheet) for open ports.
-
- 

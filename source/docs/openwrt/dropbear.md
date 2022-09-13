@@ -1,4 +1,4 @@
-# DropBear SSH public key authentication (OpenWRT)
+# DropBear SSH public key authentication
 
 If you do not have a public key yet, create one.
     

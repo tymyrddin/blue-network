@@ -1,4 +1,4 @@
-# Internet
+# Introduction
 
-* [BGP hijacking](BGP-hijacking.md)
-* [Certificate validation](Certificate-validation.md)
+* [BGP hijacking](bgp-hijack.md)
+* [Certificate validation](certificates.md)

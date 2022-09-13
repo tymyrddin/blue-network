@@ -1,7 +1,8 @@
-# Intranet
+# Introduction
 
-* [LAN Segmentation](LAN-segmentation.md)
-* [ARP spoofing](ARP-spoofing.md)
-* [DNS cache poisoning](DNS-cache-poisoning.md)
-* [NFTables](NFTables.md)
-* [Snortbox](Snort-box.md)
+* [Add a NAT router](add-nat.md)
+* [LAN Segmentation](segmentation.md)
+* [ARP](arp.md)
+* [DNS](dns.md)
+* [NFTables](nftables.md)
+* [Snortbox](snort-box.md)
