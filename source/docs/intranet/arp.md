@@ -1,4 +1,6 @@
-# ARP spoofing
+# ARP
+
+## Spoofing
 
 * Use static, read-only entries for critical services in the ARP cache of a host (prevents only simple attacks and does not scale).
 * Switches do cross-checking of ARP responses (combined with certification).

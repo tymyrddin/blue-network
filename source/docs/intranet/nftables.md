@@ -1,13 +1,13 @@
 # NFTables
 
-For ''NAT'':
+For NAT:
 
 * The ARP address family only supports the input and output hook
 * The bridge address family only supports the input, forward and output hook?
 * Masquerading is a kind of source NAT.
 * nftables masquerade will not work if iptables masquerade is in the kernel (unload or disable it).
 
-```
+```text
 flush ruleset
 
 table ip nat {

@@ -1,4 +1,6 @@
-# DNS cache poisoning
+# DNS 
+
+## Cache poisoning
 
 * Do domain name server audit trails to investigate unauthorised use and DNS cache poisoning.
 * Monitor traffic to create whitelists of valid DNS servers (for example by using DNS metadata (server source, destination IP address, domain names that were queried by the server, and DNS server registration data)) and be alerted if servers not on the list are used. 
