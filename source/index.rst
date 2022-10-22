@@ -1,8 +1,3 @@
-.. Network mitigations documentation master file, created by
-   sphinx-quickstart on Sun Jun 26 05:19:13 2022.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Network mitigations
 ===============================================
 
@@ -66,4 +61,4 @@ The policies and practices adopted to prevent, monitor, and recover from network
 .. toctree::
    :caption: All mitigations
 
-   Overview <https://tymyrddin.github.io/mitigations/>
+   Blue Team <https://tymyrddin.github.io/blue/>
