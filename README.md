@@ -1,7 +1,7 @@
 # Network mitigations
 
-![Publish Network mitigations using Sphinx](https://github.com/tymyrddin/network-mitigations/workflows/Publish%20Network%20mitigations%20using%20Sphinx/badge.svg?branch=main)
- Deployed: https://tymyrddin.github.io/network-mitigations/
+![Publish Network mitigations using Sphinx](https://github.com/tymyrddin/blue-network/workflows/Publish%20Network%20mitigations%20using%20Sphinx/badge.svg?branch=main)
+ Deployed: https://tymyrddin.github.io/blue-network/
 
 Built with [Sphinx](https://www.sphinx-doc.org) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided
 by [Read the Docs](https://readthedocs.org/).
@@ -26,7 +26,8 @@ $ make html
 
 This project welcomes contributions and suggestions. 
 
-[Open an issue here](https://github.com/tymyrddin/network-mitigations/issues)
+[Open an issue here](https://github.com/tymyrddin/blue-network/issues)
 
 ## Mind
-Where you stand depends on where you sit, and all threats are cross-vector threats. Without a clear mandate for testing, measuring and reporting actual improvements in security, attempts at improving security makes absolutely no sense, not even for the low-hanging fruit.  
+
+A Thaum is the basic unit of magical strength. It has been universally established as the amount of magic needed to create one small white pigeon or three normal sized billiard balls. ~TP
