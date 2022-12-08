@@ -61,4 +61,4 @@ The policies and practices adopted to prevent, monitor, and recover from network
 .. toctree::
    :caption: All mitigations
 
-   Blue Team <https://tymyrddin.github.io/blue/>
+   Blue Team <https://blue.tymyrddin.dev/>
