@@ -5,11 +5,6 @@ The policies and practices adopted to prevent, monitor, and recover from network
 
 ----
 
-.. image:: _static/images/cybersecurity-for-small-networks.png
-  :alt: Useful books
-
-----
-
 .. toctree::
    :glob:
    :maxdepth: 1
@@ -65,7 +60,7 @@ The policies and practices adopted to prevent, monitor, and recover from network
    docs/internet/README.md
    docs/internet/*
 
-.. toctree::
-   :caption: All mitigations
+----
 
-   Blue Team <https://blue.tymyrddin.dev/>
+.. image:: _static/images/cybersecurity-for-small-networks.png
+  :alt: Useful books
