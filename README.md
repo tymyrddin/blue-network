@@ -3,7 +3,7 @@
 Built with [Sphinx](https://www.sphinx-doc.org) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided
 by [Read the Docs](https://readthedocs.org/).
 
-[![Documentation Status](https://readthedocs.org/projects/blue-network/badge/?version=latest)](https://blue.tymyrddin.dev/projects/network/en/latest/?badge=latest)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0ef82b1c-6457-490d-b968-bf2e1fda6f49/deploy-status)](https://app.netlify.com/sites/fluffy-biscochitos-92f4ce/deploys)
 
 ## Requirements
 
