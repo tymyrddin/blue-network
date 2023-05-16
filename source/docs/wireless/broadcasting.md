@@ -6,4 +6,4 @@ To lock down the SSID a bit more, configure the access point to not broadcast th
 SSID. This means that clients will not see your wireless network when they browse
 for wireless networks.
 
-May this not lead to a false sense of security. [It is not really hidden](red-network:docs/wireless/scanning).
+May this not lead to a false sense of security. [It is not really hidden](red-network:docs/notes/intrusions).
