@@ -14,15 +14,30 @@ The policies and practices adopted to prevent, monitor, and recover from network
    docs/basics/README.md
    docs/basics/*
 
+----
+
+.. toctree::
+   :maxdepth: 1
+   :includehidden:
+   :caption: Router audit scripts @GitHub
+
+   Intranet router audit scripts <https://github.com/tymyrddin/scripts-network/tree/master/intranet-router-audits/README.md>
+   ISP-grade router audit scripts <https://github.com/tymyrddin/scripts-network/blob/master/isp-grade-router-audits/README.md>
+   Carrier-grade router audit scripts <https://github.com/tymyrddin/scripts-network/blob/master/carrier-grade-router-audits/README.md>
+
+----
+
 .. toctree::
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: OpenWRT
+   :caption: OpenWRT @Home
 
    docs/openwrt/README.md
    docs/openwrt/flash-router.md
    docs/openwrt/*
+
+----
 
 .. toctree::
    :glob:
@@ -40,6 +55,8 @@ The policies and practices adopted to prevent, monitor, and recover from network
    docs/wireless/restrict-by-mac.md
    docs/wireless/certificates.md
 
+----
+
 .. toctree::
    :glob:
    :maxdepth: 1
@@ -50,6 +67,8 @@ The policies and practices adopted to prevent, monitor, and recover from network
    docs/intranet/add-nat.md
    docs/intranet/segmentation.md
    docs/intranet/*
+
+----
 
 .. toctree::
    :glob:
