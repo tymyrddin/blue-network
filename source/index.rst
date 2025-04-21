@@ -3,6 +3,11 @@ Network mitigations
 
 The policies and practices adopted to prevent, monitor, and recover from network attacks.
 
+.. image:: _static/images/in-progress.png
+  :alt: Forever in progress ...
+
+Forever? Why? See `Network attacks <https://network.tymyrddin.dev/>`_
+
 ----
 
 .. toctree::

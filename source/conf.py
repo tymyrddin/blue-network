@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Network mitigations'
-copyright = '2022, TyMyrddin'
+copyright = '2025, TyMyrddin'
 author = 'TyMyrddin'
 
 # The full version, including alpha/beta/rc tags
@@ -34,6 +34,8 @@ extensions = [
     'myst_parser',
     'sphinx_markdown_tables',
     'sphinx.ext.intersphinx',
+    'sphinx_copybutton',
+    'sphinx_design',
 ]
 
 source_suffix = ['.rst', '.md']
@@ -90,3 +92,10 @@ html_show_sphinx = False
 html_show_copyright = False
 
 myst_url_schemes = ["http", "https", ]
+
+myst_enable_extensions = [
+    "amsmath",
+    "dollarmath",
+    "tasklist",
+    "colon_fence",
+]
