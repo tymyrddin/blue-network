@@ -9,7 +9,7 @@ The policies and practices adopted to prevent, monitor, and recover from network
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Basics
+   :caption: Basics @Home
 
    docs/basics/README.md
    docs/basics/*
