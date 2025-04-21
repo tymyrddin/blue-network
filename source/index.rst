@@ -6,7 +6,7 @@ The policies and practices adopted to prevent, monitor, and recover from network
 .. image:: _static/images/in-progress.png
   :alt: Forever in progress ...
 
-Forever? Why? See `Network attacks <https://network.tymyrddin.dev/>`_
+Forever in progress? Why? See `Network attacks <https://network.tymyrddin.dev/>`_
 
 ----
 
