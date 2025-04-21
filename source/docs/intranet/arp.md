@@ -1,4 +1,4 @@
-# ARP Mitigations
+# ARP mitigations
 
 | Attack	        | Mitigation                     |
 |----------------|--------------------------------|

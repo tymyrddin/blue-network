@@ -1,4 +1,4 @@
-# DNS Mitigations
+# DNS mitigations
 
 | Threat	                   | Mitigation                                 |
 |---------------------------|--------------------------------------------|

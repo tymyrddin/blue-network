@@ -13,10 +13,10 @@ Intranet security mitigations are proactive measures to protect internal network
 
 ## How?
 
-* [Secured NAT Router](add-nat.md)
-* [LAN Segmentation](segmentation.md)
-* [ARP Mitigations](arp.md)
-* [DNS Mitigations](dns.md)
+* [Secured NAT router](add-nat.md)
+* [LAN segmentation](segmentation.md)
+* [ARP mitigations](arp.md)
+* [DNS mitigations](dns.md)
 * [NFTables](nftables.md)
 * [Snortbox as IDS](snort-box.md)
 * [Beyond basic protections](beyond.md)

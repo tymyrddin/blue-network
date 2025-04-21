@@ -14,7 +14,7 @@
 :depth: 3
 ```
 
-## Network Segmentation & Zero Trust
+## Network segmentation & Zero Trust
 
 ### Micro-Segmentation
 
@@ -42,7 +42,7 @@ Tools: OpenDaylight, VMware NSX.
 
 ## Advanced traffic monitoring
 
-### NetFlow/sFlow Analysis
+### NetFlow/sFlow analysis
 
 Detect anomalies (e.g., data exfiltration, lateral movement).
 
@@ -51,7 +51,7 @@ Tools:
 * Elasticsearch + Packetbeat (log analysis).
 * Darktrace (AI-based anomaly detection).
 
-### Encrypted Traffic Inspection
+### Encrypted traffic inspection
 
 Decrypt & inspect TLS (for malware C2, data leaks).
 
@@ -69,7 +69,7 @@ Tools: Cisco ISE, Forescout, PacketFence.
 
 802.1X/EAP-TLS for wired/wireless auth.
 
-### Host-Based Firewalls
+### Host-Based firewalls
 
 Enforce least privilege (block unnecessary inbound/outbound).
 
@@ -77,7 +77,7 @@ Windows: Set-NetFirewallProfile -Enabled True
 
 Linux: ufw default deny incoming
 
-### Disable Legacy Protocols
+### Disable legacy protocols
 
 Block SMBv1, LLMNR, NetBIOS (common attack vectors):
     

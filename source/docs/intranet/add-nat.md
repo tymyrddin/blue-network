@@ -1,4 +1,4 @@
-# Secured NAT Router
+# Secured NAT router
 
 | Threat	           | Solution                       |
 |-------------------|--------------------------------|
