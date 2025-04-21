@@ -1,8 +1,9 @@
 # Introduction
 
-* [Add a NAT router](add-nat.md)
+* [Secured NAT Router](add-nat.md)
 * [LAN Segmentation](segmentation.md)
-* [ARP](arp.md)
-* [DNS](dns.md)
+* [ARP Mitigations](arp.md)
+* [DNS Mitigations](dns.md)
 * [NFTables](nftables.md)
-* [Snortbox](snort-box.md)
+* [Snortbox as IDS](snort-box.md)
+* [Beyond basic protections](beyond.md)

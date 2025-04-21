@@ -1,6 +1,10 @@
 # NFTables
 
-For NAT:
+```{contents} Table of Contents
+:depth: 3
+```
+
+## For NAT
 
 * The ARP address family only supports the input and output hook
 * The bridge address family only supports the input, forward and output hook?

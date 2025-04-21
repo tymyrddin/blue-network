@@ -17,17 +17,6 @@ The policies and practices adopted to prevent, monitor, and recover from network
 ----
 
 .. toctree::
-   :maxdepth: 1
-   :includehidden:
-   :caption: Router audit scripts @GitHub
-
-   Intranet router audit scripts <https://github.com/tymyrddin/scripts-network/tree/master/intranet-router-audits/README.md>
-   ISP-grade router audit scripts <https://github.com/tymyrddin/scripts-network/blob/master/isp-grade-router-audits/README.md>
-   Carrier-grade router audit scripts <https://github.com/tymyrddin/scripts-network/blob/master/carrier-grade-router-audits/README.md>
-
-----
-
-.. toctree::
    :glob:
    :maxdepth: 1
    :includehidden:
@@ -43,7 +32,7 @@ The policies and practices adopted to prevent, monitor, and recover from network
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Wireless
+   :caption: Wireless @Home
 
    docs/wireless/README.md
    docs/wireless/signal-strength.md
@@ -58,6 +47,17 @@ The policies and practices adopted to prevent, monitor, and recover from network
 ----
 
 .. toctree::
+   :maxdepth: 1
+   :includehidden:
+   :caption: Router audit scripts @GitHub
+
+   Intranet router audit scripts <https://github.com/tymyrddin/scripts-network/tree/master/intranet-router-audits/README.md>
+   ISP-grade router audit scripts <https://github.com/tymyrddin/scripts-network/blob/master/isp-grade-router-audits/README.md>
+   Carrier-grade router audit scripts <https://github.com/tymyrddin/scripts-network/blob/master/carrier-grade-router-audits/README.md>
+
+----
+
+.. toctree::
    :glob:
    :maxdepth: 1
    :includehidden:
@@ -66,7 +66,11 @@ The policies and practices adopted to prevent, monitor, and recover from network
    docs/intranet/README.md
    docs/intranet/add-nat.md
    docs/intranet/segmentation.md
-   docs/intranet/*
+   docs/intranet/arp.md
+   docs/intranet/dns.md
+   docs/intranet/nftables.md
+   docs/intranet/snort-box.md
+   docs/intranet/beyond.md
 
 ----
 
@@ -77,7 +81,12 @@ The policies and practices adopted to prevent, monitor, and recover from network
    :caption: Internet
 
    docs/internet/README.md
-   docs/internet/*
+   docs/internet/bgp-hijack.md
+   docs/internet/certificates.md
+   docs/internet/rpki.md
+   docs/internet/critical.md
+   docs/internet/pqc.md
+   docs/internet/doh-dot.md
 
 ----
 
