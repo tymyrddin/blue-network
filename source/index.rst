@@ -81,10 +81,12 @@ The policies and practices adopted to prevent, monitor, and recover from network
    :caption: Internet
 
    docs/internet/README.md
+   docs/internet/critical.md
    docs/internet/bgp-hijack.md
    docs/internet/certificates.md
    docs/internet/rpki.md
-   docs/internet/critical.md
+   docs/internet/ddos.md
+   docs/internet/gdpr.md
    docs/internet/pqc.md
    docs/internet/doh-dot.md
 
