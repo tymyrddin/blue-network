@@ -110,7 +110,7 @@ Passive DNS Replication (pDNS)
 
 ## Intrusion Detection Systems (IDS) for DNS
 
-Snort/Suricata rules for DNS anomalies:
+[Snort](https://nta.tymyrddin.dev/docs/snort/readme)/Suricata rules for DNS anomalies:
 
 ```
 alert udp any any -> any 53 (msg:"Suspicious DNS Query"; content:"|00 01 00 00|"; depth:4; sid:1000002;)

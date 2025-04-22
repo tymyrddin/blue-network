@@ -97,9 +97,9 @@ Blocks unknown MACs and logs violations.
 
 ## ARP Spoofing detection tools
 
-| Tool	               | Function                                              |
-|---------------------|-------------------------------------------------------|
-| ArpON (Linux)	      | Blocks ARP attacks in real-time.                      |
-| Wireshark	          | Detects unusual ARP traffic (like duplicate replies). |
-| Snort/Suricata	     | IDS rules for ARP anomalies.                          |
-| ARPGuard (Windows)	 | Actively prevents spoofing.                           |
+| Tool	                                                          | Function                                              |
+|----------------------------------------------------------------|-------------------------------------------------------|
+| ArpON (Linux)	                                                 | Blocks ARP attacks in real-time.                      |
+| [Wireshark](https://nta.tymyrddin.dev/docs/wireshark/readme)   | Detects unusual ARP traffic (like duplicate replies). |
+| [Snort](https://nta.tymyrddin.dev/docs/snort/readme)/Suricata	 | IDS rules for ARP anomalies.                          |
+| ARPGuard (Windows)	                                            | Actively prevents spoofing.                           |
